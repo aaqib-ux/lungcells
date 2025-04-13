@@ -1,20 +1,9 @@
 **Differential transcriptomic host responses in the early phase of viral
 and bacterial infections in human lung tissue explants ex vivo**
 
-[[Aaqib
-Sohail]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Sohail+A&cauthor_id=39395995)^ [[1]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-1) [[2]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-2)^, [[Fakhar
-H
-Waqas]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Waqas+FH&cauthor_id=39395995)^ [[1]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-1) [[2]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-2)^, [[Peter
-Braubach]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Braubach+P&cauthor_id=39395995)^ [[3]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-3)^, [[Laurien
-Czichon]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Czichon+L&cauthor_id=39395995)^ [[1]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-1)^, [[Mohamed
-Samir]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Samir+M&cauthor_id=39395995)^ [[1]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-1) [[4]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-4)^, [[Azeem
-Iqbal]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Iqbal+A&cauthor_id=39395995)^ [[1]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-1)^, [[Leonardo
-de
-Araujo]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=de+Araujo+L&cauthor_id=39395995)^ [[1]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-1) [[5]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-5) [[6]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-6)^, [[Stephan
-Pleschka]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Pleschka+S&cauthor_id=39395995)^ [[7]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-7) [[8]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-8)^, [[Michael
-Steinert]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Steinert+M&cauthor_id=39395995)^ [[9]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-9)^, [[Robert
-Geffers]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Geffers+R&cauthor_id=39395995)^ [[10]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-10)^, [[Frank
-Pessler]{.underline}](https://pubmed.ncbi.nlm.nih.gov/?term=Pessler+F&cauthor_id=39395995)^ [[11]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-11) [[12]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-12) [[13]{.underline}](https://pubmed.ncbi.nlm.nih.gov/39395995/#full-view-affiliation-13)^
+Aaqib Sohail, Fakhar H Waqas , Peter Braubach , Laurien Czichon ,
+Mohamed Samir , Azeem Iqbal , Leonardo de Araujo , Stephan Pleschka ,
+Michael Steinert , Robert Geffers , Frank Pessler
 
 PMID: 39395995
 PMCID: [[PMC11471021]{.underline}](https://pmc.ncbi.nlm.nih.gov/articles/PMC11471021/)
